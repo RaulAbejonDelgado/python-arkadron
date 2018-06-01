@@ -7,7 +7,7 @@ pygame.init()
 ANCHOVENTANA = 800
 ALTOVENTANA = 600
 superficieVentana = pygame.display.set_mode((ANCHOVENTANA, ALTOVENTANA), 0,32)
-pygame.display.set_caption('PIMBAL1')
+pygame.display.set_caption('PyMBAL')
 # Establece las variables de direccion
 ABAJOIZQUIERDA = 1
 ABAJO = 2
